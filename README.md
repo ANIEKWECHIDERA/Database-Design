@@ -4,6 +4,6 @@ It consists of 4 main tables namley: /n
 • Vendor Table /n
 • Product Table /n
 • Sales Table n/
-• Inventory Table /
+• Inventory Table/
 
 I also included stored procedures and views for effective Database management and Database governance
