@@ -1,5 +1,5 @@
 # Database-Design 
- This is a simple operationla database i designed for a Small supermarket, 'LOFTY Ventures'
+ This is a simple operational database i designed for a Small supermarket, 'LOFTY Ventures'
  It consists of 4 main tables namley:
  • Vendor Table
  • Product Table
